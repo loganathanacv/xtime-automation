@@ -12,7 +12,8 @@
 2. Configure the "token" variable with your graphQL token and ensure you are not pushing while raising PR
 3. update the SFTP details likes hostname, port, username & Password
 4. comment the section you don't want to run "staging" or "PROD"
-5. "npm run start" 
+5. Update the "pilotDealers" const in the download-zip.js incase of any new dealers if its not present here.
+6. "npm run start" 
 
 # Issues or Queries:   lpandurengan@acvauctions.com / mmurugesan@acvauctions.com
  
