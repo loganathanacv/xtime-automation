@@ -22,7 +22,7 @@ const remoteFile = `${remotePath}${fileName}`;
 // SFTP Connection Details
 const config = {
   host: "<hostName>",
-  port: 22,
+  port: <portNumber>,
   username: "<username>",
   password: "<password>",
 };
