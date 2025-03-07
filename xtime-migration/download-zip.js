@@ -21,10 +21,10 @@ const remoteFile = `${remotePath}${fileName}`;
 
 // SFTP Connection Details
 const config = {
-  host: "sftp.maxdigital.com",
+  host: "<hostName>",
   port: 22,
-  username: "xtime",
-  password: "Lfmq*M@Jdn6b3-Fq*rNJ",
+  username: "<username>",
+  password: "<password>",
 };
 
 const pilotDealers = [
